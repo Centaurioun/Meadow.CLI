@@ -66,4 +66,4 @@
   <ItemGroup>
     <ProjectReference Include="..\Meadow.Hcom\Meadow.Hcom.csproj" />
   </ItemGroup>
-</Project>  
+</Project>
